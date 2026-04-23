@@ -1,0 +1,20 @@
+[project]
+name = "multi-agent-research-and-report-writer"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "langchain>=1.2.15",
+    "langchain-community>=0.4.1",
+    "langchain-google-genai>=4.2.1",
+    "langfuse>=4.0.6",
+    "langgraph>=1.1.6",
+    "python-dotenv>=1.2.2",
+    "fastapi>=0.115.0",
+    "uvicorn[standard]>=0.34.0",
+    "langchain-tavily>=0.2.0",
+    "pydantic>=2.10.0",
+    "pytest>=8.3.0",
+    "httpx>=0.28.0",
+]
