@@ -1,6 +1,6 @@
 # Multi-Agent Research & Report Writer
 
-A coordinator-driven multi-agent system built with **LangGraph** that researches any topic via web search, synthesizes findings into structured sections, runs a quality-check critic loop, and assembles a polished Markdown report — with full **Langfuse** observability for cost, latency, and prompt versioning per agent.
+A multi-agent system built with **LangGraph** that researches any topic via web search, synthesizes findings into structured sections, runs a quality-check critic loop, and assembles a polished Markdown report. It is built with full **Langfuse** observability for cost, latency, and prompt versioning.
 
 ---
 
